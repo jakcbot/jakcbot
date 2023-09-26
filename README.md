@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakcbot
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me lijinze46@gmail.com
 
 <!---
